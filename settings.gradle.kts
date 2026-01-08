@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Android(Almanac"
 include(":app")
- 
+include(":almanac-core")
